@@ -1,0 +1,10 @@
+[user]
+	name = Tadashi Nakamura
+	email = nakamura.tadashi@c-brains.jp
+[color]
+	ui = auto
+[alias]
+	st = status
+	br = branch
+	co = checkout
+	che = cherry-pick
