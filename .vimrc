@@ -257,11 +257,11 @@ menu Vim.Plugin.GpgShow			:GPGViewRecipients<CR>
 "-------------PGINCF--------------
 
 let showmarks_enable=0
-set backup
-set backupdir=~/.vim/savevers
+"set backup
+"set backupdir=~/.vim/savevers
 "set patchmode=.clean
-let savevers_types = "*"
-let savevers_dirs = &backupdir
+"let savevers_types = "*"
+"let savevers_dirs = &backupdir
 let versdiff_no_resize=1
 nmap <silent> <F5> :VersDiff -<CR>
 nmap <silent> <F6> :VersDiff +<CR>
